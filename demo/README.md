@@ -22,7 +22,7 @@ This is a simple Spring Boot application for managing waste types and their corr
 1. Clone the repository:
    ```bash
    git clone https://github.com/RaskoProggramer/REST-Api
-   cd mphorakgope
+   cd demo
    
 2. Run Application
     - 'Run Icon' In Main Application file
