@@ -14,7 +14,7 @@ This is a simple Spring Boot application for managing waste types and their corr
 
 ### Prerequisites
 
-- Java 11 or higher
+- Java 21
 - Maven 3.6.3 or higher
 
 ### Installation
